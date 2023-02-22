@@ -1,6 +1,6 @@
 {
   "name": "chroma-extractor",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "JS/React package used to extract chroma values from different image file types.",
   "main": "src/index.js",
   "author": "Luis Adolfo Rodriguez Lopez",
