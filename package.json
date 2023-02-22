@@ -3,6 +3,12 @@
   "version": "1.0.0",
   "description": "JS/React package used to extract chroma values from different image file types.",
   "main": "index.js",
+  "author": "Luis Adolfo Rodriguez Lopez",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lrodri14/chroma-extractor.git"
+  },
   "dependencies": {
     "color.js": "^1.2.0",
     "extract-colors": "^2.0.5",
