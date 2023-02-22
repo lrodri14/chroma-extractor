@@ -1,1 +1,3 @@
-export useChromaExtractor from './hooks/useChromaExtractor'
+import useChromaExtractor from "./hooks/useChromaExtractor";
+
+export default useChromaExtractor;
