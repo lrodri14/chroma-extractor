@@ -11,13 +11,11 @@
   },
   "dependencies": {
     "color.js": "^1.2.0",
-    "extract-colors": "^2.0.5",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "react-scripts": "5.0.1"
+    "extract-colors": "^2.0.5"
   },
-  "scripts": {
-    "build": "rollup -c"
+  "peerDependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
   },
   "browserslist": {
     "production": [
