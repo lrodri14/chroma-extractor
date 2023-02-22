@@ -2,7 +2,7 @@
   "name": "chroma-extractor",
   "version": "1.0.2",
   "description": "JS/React package used to extract chroma values from different image file types.",
-  "main": "index.js",
+  "main": "src/index.js",
   "author": "Luis Adolfo Rodriguez Lopez",
   "license": "MIT",
   "repository": {
@@ -15,6 +15,9 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1"
+  },
+  "scripts": {
+    "build": "rollup -c"
   },
   "browserslist": {
     "production": [
